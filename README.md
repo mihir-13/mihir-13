@@ -9,7 +9,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ME-HE-R
 - ⚡ Fun fact: Coding and programming is super interesting!
 
-
-<-- 
-  - 📫 How to reach me:
--->
