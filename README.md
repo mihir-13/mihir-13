@@ -5,7 +5,7 @@
 ### Languages Known & Version:
 
 <img src="https://img.shields.io/badge/Swift-v%205-green"> <img src="https://img.shields.io/badge/SwiftUI-v%202.0-green"> <img src="https://img.shields.io/badge/Objective--C-v%202-green"> <img src="https://img.shields.io/badge/Angular%20-v%207-green"> <img src="https://img.shields.io/badge/Ionic%20Framework-v%202-green"> <img src="https://img.shields.io/badge/Vuejs-v%202.6.3-green"> 
-<img src="https://img.shields.io/badge/Flutter-V3-yellowgreen"> <img src="https://img.shields.io/badge/React%20Native-v16-red">
+<img src="https://img.shields.io/badge/Flutter-v3-green"> <img src="https://img.shields.io/badge/React%20Native-v16-green">
 
 
 ### How to Contact me
