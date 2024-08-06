@@ -8,11 +8,6 @@
 <img src="https://img.shields.io/badge/Flutter-v3-green"> <img src="https://img.shields.io/badge/React%20Native-v16-green"> <img src="https://img.shields.io/badge/ReactJS-v18-green">
 
 
-### How to Contact me
-
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin" href="https://www.linkedin.com/in/mihir-brahmbhatt"> <a href="https://www.linkedin.com/in/mihir-brahmbhatt">LinkedIn</a>
-
-
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Swift, Flutter and React Native
